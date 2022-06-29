@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 * 👋 Hi, I'm Alexis and currently going to college.
 * 🌱 I’m currently learning nothing because I'm still confused on what path I should take.
-* 💖 I love [neovim](https://github.com/neovim/neovim) and I love configuring my [neovim configurations](https://github.com/Alexis12119/Simple) because I love the feeling doing something with my own hand and mind.
+* 💖 I love [neovim](https://github.com/neovim/neovim) and I love configuring my [neovim configurations](https://github.com/Alexis12119/Simple) because I love the feeling of doing something with my own hand and mind.
 * ⚡ Fun fact: **I just use Github as backup because If I accidentally delete my configurations, I can still recover my configurations through github.**
 
 
