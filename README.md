@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Number of visits](https://badges.pufler.dev/visits/Alexis12119/Alexis12119 "Number of visits")
+[![Last time update this file](https://img.shields.io/github/last-commit/Anas-Elgarhy/Anas-Elgarhy?label=profile%20updated&style=flat-square "Last time update this file")](https://github.com/Anas-Elgarhy/Anas-Elgarhy)
+
 * 👋 Hi, I'm Alexis and I'm gonna be college student this year.
 * 🌱 I’m currently learning nothing. 
 * 💖 I love [neovim](https://github.com/neovim/neovim) and I love configuring my [neovim configuration](https://github.com/Alexis12119/Simple).
