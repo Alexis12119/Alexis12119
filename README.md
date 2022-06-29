@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Alexis12119/Alexis12119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+* 👋 Hi, I'm Alexis and currently going to college.
+* 🌱 I’m currently learning nothing because I'm still confused on what path I should take.
+* 💖 I love [neovim](https://github.com/neovim/neovim) and I love configuring my [neovim configurations](https://github.com/Alexis12119/Simple) because I love the feeling doing something with my own hand and mind.
+* ⚡ Fun fact: **I just use Github as backup because If I accidentally delete my configurations, I can still recover my configurations through github.**
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis12119&layout=compact&show_icons=true&theme=dark)](https://github.com/Alexis12119?tab=repositories)
+
+[![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexis12119&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
