@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![Number of visits](https://badges.pufler.dev/visits/Alexis12119/Alexis12119 "Number of visits")
-[![Last time update this file](https://img.shields.io/github/last-commit/Anas-Elgarhy/Anas-Elgarhy?label=profile%20updated&style=flat-square "Last time update this file")](https://github.com/Anas-Elgarhy/Anas-Elgarhy)
+[![Last time update this file](https://img.shields.io/github/last-commit/Alexis12119/Alexis12119?label=profile%20updated&style=flat-square "Last time update this file")](https://github.com/Alexis12119/Alexis12119)
 
 * 👋 Hi, I'm Alexis and I'm gonna be college student this year.
 * 🌱 I’m currently learning nothing. 
@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 
 [![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexis12119&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">Visitors counter ↖ <br>
+  <img alt="Visitors counter ↖" src="https://profile-counter.glitch.me/Alexis12119/count.svg"/>
+</p>
+
 > When there's someone better than you, Learn from him/her.
 
 \- Alexis, 2022
+
