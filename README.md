@@ -18,17 +18,12 @@ Here are some ideas to get you started:
 
 * 👋 Hi, I'm Alexis and I'm gonna be college student this year.
 * 🌱 I’m currently learning nothing. 
-* 💖 I love [neovim](https://github.com/neovim/neovim) and I love configuring my [neovim configuration](https://github.com/Alexis12119/Simple).
+* 💖 I love [neovim](https://github.com/neovim/neovim) and I love configuring my [neovim configuration](https://github.com/Alexis12119/dotfiles-windows/tree/dotfiles/nvim).
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis12119&layout=compact&show_icons=true&theme=dark)](https://github.com/Alexis12119?tab=repositories)
 
 [![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexis12119&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">Visitors counter ↖ <br>
-  <img alt="Visitors counter ↖" src="https://profile-counter.glitch.me/Alexis12119/count.svg"/>
-</p>
-
 > When there's someone better than you, Learn from him/her.
 
 \- Alexis, 2022
-
