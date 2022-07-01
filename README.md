@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Number of visits](https://badges.pufler.dev/visits/Alexis12119/Alexis12119 "Number of visits")
 [![Last time update this file](https://img.shields.io/github/last-commit/Alexis12119/Alexis12119?label=profile%20updated&style=flat-square "Last time update this file")](https://github.com/Alexis12119/Alexis12119)
 
 * 👋 Hi, I'm Alexis and I'm gonna be college student this year.
