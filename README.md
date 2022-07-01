@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 * 👋 Hi, I'm Alexis and I'm gonna be college student this year.
 * 🌱 I’m currently learning nothing. 
-* 💖 I love [neovim](https://github.com/neovim/neovim) and I love configuring my [neovim configuration](https://github.com/Alexis12119/dotfiles-windows/tree/dotfiles/nvim).
+* 💖 I love [neovim](https://github.com/neovim/neovim) and I love configuring my [neovim configuration](https://github.com/Alexis12119/nvim).
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis12119&layout=compact&show_icons=true&theme=dark)](https://github.com/Alexis12119?tab=repositories)
 
