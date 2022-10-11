@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Last time update this file](https://img.shields.io/github/last-commit/Alexis12119/Alexis12119?label=profile%20updated&style=flat-square "Last time update this file")](https://github.com/Alexis12119/Alexis12119)
+![](https://img.shields.io/github/last-commit/Alexis12119/Alexis12119?color=302D41&logo=&logoColor=302D41&style=for-the-badge)
 
-* 👋 Hi, I'm Alexis and I'm gonna be college student this year.
+* 👋 Hi, I'm Alexis and I'm college student.
 * 🌱 I’m currently learning nothing. 
 * 💖 I love [neovim](https://github.com/neovim/neovim) and I love configuring my [neovim configuration](https://github.com/Alexis12119/nvim-config).
+* 🚀 This is my reddit [account](https://www.reddit.com/user/Blan_11/).
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis12119&layout=compact&show_icons=true&theme=dark)](https://github.com/Alexis12119?tab=repositories)
 
