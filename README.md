@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 * 💖 I love [neovim](https://github.com/neovim/neovim).
 * 🚀 This is my reddit [account](https://www.reddit.com/user/Blan_11/).
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis12119&layout=compact&show_icons=true&theme=dark)](https://github.com/Alexis12119?tab=repositories)
+
+[![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexis12119&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 > When there's someone better than you, Learn from him/her.
 
 \- Alexis, 2022
