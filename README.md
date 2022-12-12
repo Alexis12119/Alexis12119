@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/lx_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lx_123" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/lx_123" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/codechef.png" alt="lx_123" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/corporal461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="corporal461" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/alwwowo123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alwwowo123" height="30" width="40" /></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Blan_11)  
+[<img src='https://user-images.githubusercontent.com/74944536/206942535-2aa945d8-2f0d-4bb4-a296-f554b032390c.png' alt='Reddit' height='40'>](https://www.reddit.com/user/Blan_11)  
 
 </p>
 
