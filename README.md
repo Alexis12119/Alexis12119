@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Neovim**
 
-- 📫 How to reach me **corporal461@gmail.com**
+- 📫 How to reach me **corporalalexis222@gmail.com**
 
 - ⚡ Fun fact **I'm a man**
 
