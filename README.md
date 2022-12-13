@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **corporal461@gmail.com**
 
-- ⚡ Fun fact **I'm a positive person**
+- ⚡ Fun fact **I'm a man**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
