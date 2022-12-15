@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://www.reddit.com/user/Blan_11" target="blank"><img align="center" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" alt="Coding" height="300" width="400" /></a>
+ <a href="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" target="blank"><img align="center" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" alt="Coding" height="300" width="400" /></a>
  
 <h1 align="center">Hi 👋, I'm Alexis Corporal</h1>
 <h3 align="center">A first year college student</h3>
