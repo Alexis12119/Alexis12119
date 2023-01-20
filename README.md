@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Neovim**
 
-- 📫 How to reach me **corporalalexis222@gmail.com**
-
 - ⚡ Fun fact **I'm a man**
 
 <h3 align="left">Connect with me:</h3>
