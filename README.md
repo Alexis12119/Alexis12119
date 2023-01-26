@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexis12119" alt="alexis12119" /></a> </p>
 
-- 🔭 I’m currently working on my [neovim configuration](https://github.com/Alexis12119/nvim-config)
+- 🔭 I’m currently working on my [neovim configuration](https://github.com/Alexis12119/nvim-config) and [neovim colorscheme](https://github.com/Alexis12119/nightly.nvim)
 
 - 🌱 I’m currently learning **nothing**
 
