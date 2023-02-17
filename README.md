@@ -40,6 +40,10 @@
  <a href="https://github.com/microsoft/terminal" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/74944536/213898457-73064696-3b59-4c66-a6a1-539ef13f2eba.png" alt="Windows Terminal" height="50" width="50" /></a>
 
+ <a href="https://github.com/alacritty/alacritty">
+    <img align="center" alt="Alacritty" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png" width="50" height="50" />
+</a>
+ 
  <a href="https://github.com/wez/wezterm" target="_blank">
  <img align="center" alt="WezTerm" src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" height="50" width="50" /></a>
 
