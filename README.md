@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.reddit.com/user/Blan_11" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74944536/206942535-2aa945d8-2f0d-4bb4-a296-f554b032390c.png" alt="Reddit" height="40" width="40" /></a>
+ <a href="https://www.reddit.com/user/Blan_11" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74944536/206942535-2aa945d8-2f0d-4bb4-a296-f554b032390c.png" alt="Reddit" height="40" width="40" /></a>
 
 </p>
 
