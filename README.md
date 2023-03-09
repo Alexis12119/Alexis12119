@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Neovim**
 
-- ⚡ Fun fact **I'm a man**
+- ⚡ Fun fact **Quick learner who takes a simple and straightforward approach to everything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
