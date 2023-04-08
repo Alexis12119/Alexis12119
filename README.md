@@ -1,10 +1,8 @@
 <p align="center">
- <a href="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" target="blank"><img align="center" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" alt="Coding" height="300" width="400" /></a>
+ <a href="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" target="blank"><img align="center" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="Coding" height="300" width="400" /></a>
  
 <h1 align="center">Hi 👋, I'm Alexis Corporal</h1>
 <h3 align="center">A first year college student</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexis12119" alt="alexis12119" /></a> </p>
 
 - 🔭 I’m currently working on my [nvim-config](https://github.com/Alexis12119/nvim-config) and [nightly.nvim](https://github.com/Alexis12119/nightly.nvim)
 
@@ -33,6 +31,12 @@
 
  <a href="https://www.vim.org/download.php" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/74944536/213898283-e32c4b73-ce56-4f0f-b22c-df6e164bac45.png" alt="Vim" height="40" width="40" /></a>
+ 
+<a href="https://visualstudio.microsoft.com/" target="_blank">
+<img align="center" src="https://user-images.githubusercontent.com/74944536/230710787-93a0689e-016a-43ae-b837-652538cb6b9d.png" alt="Visual Studio" height="40" width="40" /></a>
+ 
+<a href="https://code.visualstudio.com/" target="_blank">
+<img align="center" src="https://user-images.githubusercontent.com/74944536/230710851-876d8289-37bd-4d24-9e37-f71568721e00.png" alt="Visual Studio Code" height="40" width="40" /></a> 
 
  <a href="https://brave.com/download/" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/74944536/213898413-22227d2d-50a4-484a-95bc-ba2eb76a34c6.png" alt="Brave" height="50" width="50" /></a>
@@ -47,6 +51,7 @@
  <a href="https://github.com/wez/wezterm" target="_blank">
  <img align="center" alt="WezTerm" src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" height="50" width="50" /></a>
 
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis12119&layout=compact&show_icons=true&theme=dark" alt="alexis12119" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexis12119&show_icons=true&theme=dark" alt="alexis12119" /></p>
