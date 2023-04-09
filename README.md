@@ -27,7 +27,7 @@
  <img src="https://user-images.githubusercontent.com/74944536/206944711-fba1db9e-344f-404d-a94a-942040b151e9.svg" alt="Lua" width="40" height="40"/> </a><br/>
 
  <a href="https://github.com/neovim/neovim" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/74944536/206943393-c0f5180a-f341-45da-8f89-f3dd5b796f63.svg" alt="Neovim" height="80" width="80" /></a>
+<img align="center" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/nvim-icon.png" alt="Neovim" height="50" width="50" /></a>
 
  <a href="https://www.vim.org/download.php" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/74944536/213898283-e32c4b73-ce56-4f0f-b22c-df6e164bac45.png" alt="Vim" height="40" width="40" /></a>
