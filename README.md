@@ -60,4 +60,4 @@
 
 > When there's someone better than you, Learn from him/her.
 
-\- Alexis, 2022
+\- Corporal, 2022
