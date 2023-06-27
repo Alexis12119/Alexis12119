@@ -2,7 +2,7 @@
  <a href="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" target="blank"><img align="center" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="Coding" height="300" width="400" /></a>
  
 <h1 align="center">Hi 👋, I'm Alexis Corporal</h1>
-<h3 align="center">A first year college student</h3>
+<h3 align="center">A College Student</h3>
 
 - 🔭 I’m currently working on my [nvim-config](https://github.com/Alexis12119/nvim-config) and [nightly.nvim](https://github.com/Alexis12119/nightly.nvim)
 
