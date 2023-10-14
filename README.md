@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Neovim**
 
-- ⚡ Fun fact **Quick learner who takes a simple and straightforward approach to everything.**
+- ⚡ Fun fact **Quick learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
