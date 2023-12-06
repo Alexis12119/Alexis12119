@@ -15,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.reddit.com/user/Blan_11" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74944536/206942535-2aa945d8-2f0d-4bb4-a296-f554b032390c.png" alt="Reddit" height="40" width="40" /></a>
+ <a href="https://discord.com/users/959301126572884028" target="_blank"><img align="center" src="https://github.com/Alexis12119/Alexis12119/assets/74944536/7b5a0d0c-8007-4a44-b93b-e592d6bffca3" alt="Discord" height="40" width="40" /></a>
 
 </p>
 
