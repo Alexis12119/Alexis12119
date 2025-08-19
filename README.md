@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Alexis Corporal</h1>
 <h3 align="center">A College Student</h3>
 
-- 🔭 I’m currently working on my [nvim-config](https://github.com/Alexis12119/nvim-config).
+- 🔭 I’m currently working on my capstone project named **Bakerpass**.
 
 - 🌱 I’m currently learning **nothing**
 
